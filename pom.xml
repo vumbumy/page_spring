@@ -8,7 +8,7 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>porfolio.eunjin</groupId>
+	<groupId>porfolio.com</groupId>
 	<artifactId>Porfolio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Porfolio</name>
@@ -39,7 +39,7 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
-		
+
 		<dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
@@ -48,7 +48,7 @@
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-jasper</artifactId>
         </dependency>
-		
+
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
