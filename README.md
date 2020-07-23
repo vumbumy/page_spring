@@ -10,7 +10,7 @@
 테스트 용 데이터베이스를 생성합니다. 이때 `CHARACTER SET`을 `utf8mb4`로 설정합니다:
 
 ```sql
-CREATE DATABASE testdb CHARACTER SET = utf8mb4;
+CREATE DATABASE job_db CHARACTER SET = utf8mb4;
 ```
 
 ## 실행
